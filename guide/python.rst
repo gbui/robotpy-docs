@@ -120,7 +120,7 @@ previously. Note that the body of the if statement is indented::
     if statement is True:
         # do_something here
     elif other_statement is True:
-        # do something lese here
+        # do something else here
     else:
         # otherwise do this
 
