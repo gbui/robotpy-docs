@@ -6,7 +6,7 @@ Introduction to Python
 
 .. note:: This is intended to be a *very* brief overview/reference of the various
           topics you need to master in order to program Python. This is not an
-          exhaustive guide to programming with python. We recommend other
+          exhaustive guide to programming with Python. We recommend other
           resources to really learn that in-depth:
 
           * `List of various guides to learn Python <http://docs.python-guide.org/en/latest/intro/learning/>`_
